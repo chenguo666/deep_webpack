@@ -1,0 +1,1 @@
+"use strict";var o="safadf";console.log(o);var s=function(){console.log("foo")};s();

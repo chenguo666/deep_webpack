@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_devserver=self.webpackChunkwebpack_devserver||[]).push([[179],{939:(e,l,o)=>{"use strict";var s=o(974),n=o.n(s);console.log("Hello Main"),console.log("hello index"),console.log(n().join(["asdf","fasdfg"]))}},0,[[939,6,974]]]);

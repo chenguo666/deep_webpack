@@ -1,0 +1,9 @@
+body {
+  font-size: 30px;
+  background-color: blue;
+}
+.title {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}

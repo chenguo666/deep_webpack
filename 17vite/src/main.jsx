@@ -1,0 +1,21 @@
+import { sum } from "./utils/math.js";
+import "./css/base.css";
+import "./css/style.less";
+import { dataFormat } from "./ts/format";
+import jcsl from "./img/1.png";
+import { createApp } from "vue";
+import VueApp from "./vue/App.vue";
+import React from "react";
+import ReactDOM from "react-dom/client";
+import ReactApp from "./react/App.jsx";
+console.log("hello vite 132132");
+console.log(sum(20, 30));
+console.log(dataFormat("asdf11"));
+
+const imgEl = document.createElement("img");
+imgEl.src = jcsl;
+document.body.appendChild(imgEl);
+const app = createApp(VueApp);
+app.mount("#app");
+const root = ReactDOM.createRoot(document.getElementById("app2"));
+root.render(<ReactApp />);

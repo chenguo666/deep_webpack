@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2477521",
+      "name": "烟感探测器",
+      "font_class": "yangantanceqi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9280342",
+      "name": "烟感器-01",
+      "font_class": "yanganqi-",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11758192",
+      "name": "烟感",
+      "font_class": "yangan",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "11806568",
+      "name": "烟感",
+      "font_class": "yangan1",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "14151213",
+      "name": "烟感",
+      "font_class": "yangan2",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}

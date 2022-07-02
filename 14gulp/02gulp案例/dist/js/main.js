@@ -1,0 +1,1 @@
+"use strict";var o="dfgasdf";console.log(o);var n=function(o,n){return o+n};console.log(666);
